@@ -1,1 +1,2 @@
 # Music-Match
+* User Story: As an employer I want to create a website that allows me to browse through different types of music, and when I click on the song I want to listen to i am presented with lyricsso that I am able to sing along.
